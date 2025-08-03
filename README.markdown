@@ -8,7 +8,7 @@ Installation
 
 The plugin can be installed by running:
 
-    script/plugin installgit://github.com/tractis/crm_products.git
+    script/plugin install git://github.com/tractis/crm_products.git
 
 Then run the following command:
 
